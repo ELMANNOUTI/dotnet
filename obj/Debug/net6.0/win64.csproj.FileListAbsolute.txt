@@ -1,0 +1,15 @@
+/home/kali/Desktop/CTF/HackheBox/win64/bin/Debug/net6.0/win64
+/home/kali/Desktop/CTF/HackheBox/win64/bin/Debug/net6.0/win64.deps.json
+/home/kali/Desktop/CTF/HackheBox/win64/bin/Debug/net6.0/win64.runtimeconfig.json
+/home/kali/Desktop/CTF/HackheBox/win64/bin/Debug/net6.0/win64.dll
+/home/kali/Desktop/CTF/HackheBox/win64/bin/Debug/net6.0/win64.pdb
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.csproj.AssemblyReference.cache
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.AssemblyInfoInputs.cache
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.AssemblyInfo.cs
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.dll
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/refint/win64.dll
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.pdb
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/win64.genruntimeconfig.cache
+/home/kali/Desktop/CTF/HackheBox/win64/obj/Debug/net6.0/ref/win64.dll

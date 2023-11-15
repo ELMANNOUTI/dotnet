@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "juHwHUKX7mqCtyf+U9wK5l16uELz2yvvb8nS7nzsbaSLWaIEucDB0wN76iQA9ArC4u6vVHxEfxg8ZvZobm0/fA==",
+  "success": true,
+  "projectFilePath": "/home/kali/Desktop/CTF/HackheBox/win64/win64.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
